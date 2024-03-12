@@ -45,10 +45,10 @@ Meet the dedicated professionals behind Maintaintech. With expertise in software
 
 Ready to take your business to the next level with customized software solutions? Contact us today to discuss your project requirements and learn how Maintaintech can help you achieve your goals. 📞
 
-- **Email**: [maintaintectz@gmail.com]
-- **Phone**: [+255753828323]
-- **Address**: [online, freelancing] 
-- **Website**: [URL]
+- **Email**: maintaintectz@gmail.com
+- **Phone**: +255753828323
+- - **Address**: online, freelancing 
+- **Website**: cominng soon
 
 Follow us on [Twitter](https://twitter.com/maintaintechtz) | [LinkedIn](https://www.linkedin.com/company/maintaintechtz) | [Instagram](https://www.instagram.com/maintaintechtz) 📱
 
