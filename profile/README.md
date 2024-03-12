@@ -35,19 +35,38 @@ Harness the power of artificial intelligence with our chatbot and GPT (Generativ
 
 Meet the dedicated professionals behind Maintaintech. With expertise in software development, design, AI, and more, our team is committed to delivering exceptional results for our clients. 🌟
 
-- **Leadership Team**: [List of key leadership members and their roles]
-- **Software Development**: [Profiles of software developers, engineers, and architects]
-- **Design and Branding**: [Profiles of graphic designers, UI/UX specialists, and branding experts]
-- **AI and Machine Learning**: [Profiles of AI engineers, data scientists, and NLP specialists]
-- **Project Management**: [Profiles of project managers and agile coaches]
+### Leadership Team:
+- CEO: Oversees strategic direction and overall operations.
+- CTO: Leads technology department and drives innovation.
+- CFO: Manages financial planning and budgeting.
+- COO: Oversees day-to-day operations and ensures efficiency.
 
+### Software Development:
+- Lead Software Developer: Proficient in various languages and frameworks.
+- Senior Engineer: Experienced in full-stack development.
+- Software Architect: Designs scalable and robust architectures.
+
+### Design and Branding:
+- Lead Graphic Designer: Creative professional specializing in visual design.
+- UI/UX Specialist: Designs intuitive user interfaces.
+- Branding Expert: Develops comprehensive branding strategies.
+
+### AI and Machine Learning:
+- AI Engineer: Implements machine learning algorithms.
+- Data Scientist: Analyzes large datasets for insights.
+- NLP Specialist: Specializes in natural language processing.
+
+### Project Management:
+- Project Manager: Coordinates project activities and resources.
+- Agile Coach: Guides teams in adopting agile methodologies.
+- Scrum Master: Facilitates scrum ceremonies and promotes continuous improvement.
 ## Get in Touch
 
 Ready to take your business to the next level with customized software solutions? Contact us today to discuss your project requirements and learn how Maintaintech can help you achieve your goals. 📞
 
 - **Email**: maintaintectz@gmail.com
 - **Phone**: +255753828323
-- - **Address**: online, freelancing 
+- **Address**: online, freelancing 
 - **Website**: cominng soon
 
 Follow us on [Twitter](https://twitter.com/maintaintechtz) | [LinkedIn](https://www.linkedin.com/company/maintaintechtz) | [Instagram](https://www.instagram.com/maintaintechtz) 📱
